@@ -1,1 +1,1 @@
-这是manager写的代码。
+这是manager写的代码。failed to push some refs to 问题解决方法：git pull --rebase origin master
